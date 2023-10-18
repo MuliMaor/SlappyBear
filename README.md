@@ -3,7 +3,7 @@
 In this speed based game you play as a boxer competing in a slapping contest against bears.
 #### Developed in C# using Unity.
 
-![image](https://github.com/MuliMaor/SlappyBear/assets/99132799/9ac38ed1-b82b-4c5a-863e-1b8e7c1cc7b5)
+![image](https://github.com/MuliMaor/SlappyBear/assets/99132799/1e8b573c-b10b-45ae-b173-6387229c97e2)
 ### How To Play
 You must press all the red markers - and only the red ones! - before the time is up, in order to slap your opponent before they can slap you.
 You get three lives. How long can you survive?
